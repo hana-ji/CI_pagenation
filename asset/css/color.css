@@ -1,0 +1,19 @@
+.color-body {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.form-area {
+     display: flex;
+ }
+
+.form-area .color-radio{
+     display: none;
+ }
+
+.form-area .form-radio {
+    width: 100%;
+    border: 1px solid #323232;
+    border-radius: 10px;
+    text-align: center;
+}
